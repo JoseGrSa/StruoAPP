@@ -12,6 +12,8 @@ The goal is that people who don't find motivation to do things in quarantine can
 
 This APP was developed for the ONEMOTHHACK challenge and is still incomplete, though in the future I would love to keep working on it and finish it.
 
+![IMG1](https://github.com/JoseGrSa/StruoAPP/blob/main/Image/img1.jpeg)
+
 
 
 
